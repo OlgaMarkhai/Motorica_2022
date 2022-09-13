@@ -4,7 +4,7 @@
 Команда №5
 Состав команды:
 - Власов Владимир https://github.com/vip-v2a
-- Мархай Ольга
+- Мархай Ольга https://github.com/OlgaMarkhai
 - Плюснин Олег https://github.com/cheef777/SkillFactory
 - Ядринцев Алексей https://github.com/Yyalexx
 
