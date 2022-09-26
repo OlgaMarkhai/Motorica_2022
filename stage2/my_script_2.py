@@ -1,12 +1,10 @@
-path  = 'b:/Hacathon/2 task/'          # зададим путь к директорию со входными файлами
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-X = np.load (path + 'X_test.npy')
+X = np.load ('X_test.npy')
 
 def sensor_treshold_filtr(array, tres = 250):
     """Функция производит пороговую фильтрацию массива. 
@@ -34,7 +32,7 @@ X = sensor_treshold_filtr(X)
 X_nn = X.swapaxes(1, 2)
 
 
-model_loaded = tf.keras.models.load_model(path + 'score98703.h5')
+model_loaded = tf.keras.models.load_model('score98703.h5')
 
 from statistics import mode
 
