@@ -1,7 +1,8 @@
 # Motorica_2022  - этап 2
 # The task of gesture classification  - Задача классификации жестов
 
-**Команда №5 Состав команды:**  
+**Команда № 5**  
+**Состав команды:**  
 
 - Власов Владимир https://github.com/vip-v2a
 - Мархай Ольга https://github.com/OlgaMarkhai
